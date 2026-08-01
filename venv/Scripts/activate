@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\AI_finance_chatbot\Zerodha-ai-finanace\venv"
+VIRTUAL_ENV="D:\financial_advisor_ai_chatbot\Zerodha-ai-finanace\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
