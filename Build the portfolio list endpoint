@@ -1,4 +1,0 @@
-@app.get("/api/portfolios")
-def api_list_portfolios():
-    portfolios_list = portfolio.list_portfolios()  # use whatever function exists
-    return portfolios_list
