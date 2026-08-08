@@ -1,3 +1,0 @@
-from service import portfolio, market, news
-from analytics import analytics
-# later: from chatbot import chatbot
