@@ -13,7 +13,7 @@ import requests
 # FASTAPI CONFIG
 # ============================================================
 
-FASTAPI_URL = "https://zerodha-ai-finanace.onrender.com"
+FASTAPI_URL = "http://127.0.0.1:8000"
 
 
 # ============================================================
